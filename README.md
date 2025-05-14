@@ -1,6 +1,6 @@
  👋 Hi, I’m @etsayhaben
 - 👀 I’m interesteb in web development
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m graduated in software engineering from mekelle university in november 2024.
 - 💞️ I’m looking to collaborate on web debelopment
 - 📫 How to reach me  through email 'etsayhaben@gmail.com' and phone number +251933232230
 - 😄 Pronouns: ...

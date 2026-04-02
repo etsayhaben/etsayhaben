@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Haben Etsay
 
-Software Engineer specializing in **Python backend** and **full-stack development**,  
+Software Engineer specializing in **Python backend** and **full-stack development**, from may 2024 till present
 with expertise in **Java** and **Spring Boot**. Currently working at **Digital Merkato Technology PLC**.  
 
 ---
